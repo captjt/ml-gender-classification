@@ -1,4 +1,5 @@
 # Used function from http://notmatthancock.github.io/2015/10/28/confusion-matrix.html
+# Made some modifications to the image as well (not all copied code)
 
 def show_confusion_matrix(title,C,class_labels=['0','1']):
     """
